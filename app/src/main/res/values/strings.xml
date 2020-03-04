@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBindingWithSupportDemo</string>
+
+    <string name="balance">储值</string>
+    <string name="balance_detail">储值明细</string>
+    <string name="my_balance">我的储值</string>
+    <string name="withdraw">提现</string>
+    <string name="invest">充值</string>
+</resources>
