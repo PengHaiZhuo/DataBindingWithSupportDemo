@@ -54,4 +54,4 @@ private FragmentBalanceBinding binding;
 ### 后话
 双向绑定需要使用到ViewModel，具体实现请查看demo
 
-
+![image](https://github.com/PengHaiZhuo/hello-world/blob/master/picture/databindingwithsupport.jpg)
